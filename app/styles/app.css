@@ -1,0 +1,21 @@
+ * {
+     font-family: 'Lato', sans-serif;
+ }
+
+body {
+    /* width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center; */
+}
+
+.splash {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
